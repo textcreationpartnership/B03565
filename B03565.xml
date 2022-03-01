@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Generall sailing-orders according to which masters as have a mind to saile are to ruled by.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03565</idno>
+            <idno type="STC">Wing G509A</idno>
+            <idno type="STC">ESTC R177371</idno>
+            <idno type="EEBO-CITATION">47012457</idno>
+            <idno type="OCLC">ocm 47012457</idno>
+            <idno type="VID">174424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174424)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Generall sailing-orders according to which masters as have a mind to saile are to ruled by.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Isaac van Lochem, bookseller in the Milstreete, by order of Their Lordships, the Lords of the Admirality upon the Maze.,</publisher>
+                  <pubPlace>Rotterdam, :</pubPlace>
+                  <date>[1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains marginal notes.</note>
+                  <note>Title vignette.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sailing ships --  Early works to 1800.</term>
+               <term>Ship captains --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174424:1"/>
+            <pb facs="tcp:174424:1"/>
+            <p> GENERALL SAILING-ORDERS According to which Maſters as have a Mind to ſaile are to ruled by.</p>
+            <figure/>
+            <p>At ROTTERDAM,</p>
+            <p>By <hi>Iſaac van Lochem,</hi> Bookſeller in the Milſtreete, by order of Their Lordships, the Lords of the Admirality upon the Maze.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174424:2"/>
+            <pb facs="tcp:174424:2"/>
+            <head>GENERALL SAILING-ORDERS.</head>
+            <p>
+               <label>I. Sailing out of a Road by day.</label>
+            </p>
+            <p>WHen the Capt: or Comander in<g ref="char:EOLhyphen"/>tends to ſaile from any Roade, he ſhall put up a blew Ancient at the Stern, and fire one gun.</p>
+            <p>
+               <label>II. To ſaile being at Sea.</label>
+            </p>
+            <p>If the Capt: intends to ſaile at Sea, he ſhall loozen his M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zzen, and put up a blew Ancient without ſhooting.</p>
+            <p>
+               <label>III. Lights put out by night.</label>
+            </p>
+            <p>In the Night the Capt: ſhall conſtantly keepe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lights at Stern, and each Shipmaſter one, which ſhall goe aboute by turns, according to the names hereunder mentioned, and that Shipper that is at night to carry the light, ſhall that afternoone ſet up his Coullers at Stern, to know whoſe turn it is, and none ſhall offer in the night to ſaile by that Light-Ship, upon forfeiture of ſix Gilders to the Poore, and the Capt: with the Lightſhip ſhall ſaile with the ſloweſt ſailing Ships, by which the Capt: ſhall continue conſtantly with, and the Light-Ship juſt before him.</p>
+            <pb facs="tcp:174424:3"/>
+            <p>
+               <label>IV. Saile by nigt</label>
+            </p>
+            <p>If the Captaine intends to ſaile by night, he ſhall ſet up 3 Lights upon the Poop, and fire one gun, the other Ships ſhall alſo ſet up one Light, and when the Captaine being under ſaile, take in his third Light; the other Ships then ſhall every one take in their Lights, except he whoſe turn it is to carry the Light.</p>
+            <p>
+               <label>V. Tack by day</label>
+            </p>
+            <p>When the Captaine intends to tack about by day, he ſhall put up a Jack at the Stern in place of an Ancient, to give one another a good opening without damnifying.</p>
+            <p>
+               <label>VI. Tack by nigt</label>
+            </p>
+            <p>When the Capt. thinks fit to tack about by Night, he ſhall ſet up 3. Lights, and fire 2 guns, and if any of the Shippers has a mind to tack ſoo<g ref="char:EOLhyphen"/>ner, he ſhall ſet up 2 Lights, and yet notwith<g ref="char:EOLhyphen"/>ſtanding every Maſter ſhall be bound to ſet up one Light, ro prevent all dammages upon the forfeit of ten Gilders.</p>
+            <p>
+               <label>VII. anker by nigt</label>
+            </p>
+            <p>If the Capt. thinks to ancker by night, he ſhall hang up a Light in the Foreſhrowds, fire one gun, and continue his 2 Lights at ſtern, and then eve<g ref="char:EOLhyphen"/>ry Maſter ſet up one light, and another to hang in the Fore<g ref="char:punc">▪</g>ſhrowds, to prevent damage to one another, and make a good opening, and when the Capt. continues his 2 Lights at ſtern being come to an anker, every Ship ſhall alſoe conti<g ref="char:EOLhyphen"/>nue his light.</p>
+            <pb facs="tcp:174424:3"/>
+            <p>
+               <label>VIII. Cours chan<g ref="char:EOLhyphen"/>ged by night.</label>
+            </p>
+            <p>If the Cap<hi rend="sup">t</hi>. changes his courſe by Night, he ſhall then by thoſe his 2. Lights at ſtern hang one Light on the Mizzen ſhrowds, &amp; fire one gun, the Maſters then ſhall every one ſet up one Light, and he that Carries the Light ſhall ſet up 2 and when the Captains Light ſhall have hung 2 glaſſes on the ſhrowds, it ſhall then be taken downe, and ſo follow each other conveniently.</p>
+            <p>
+               <label>IX. In danger by night.</label>
+            </p>
+            <p>If by Night any of the Maſters perceive harm at hand he ſhall Make as much noiſe as he can and make towards the Convoyer as well with ſhooting as with fail's fire or with any thing that will make a Noiſe.</p>
+            <p>
+               <label>X. by night to lay the Foreſaile to the Maſt.</label>
+            </p>
+            <p>If the Cap<hi rend="sup">t</hi> thinks fit to lay the foreſaile to the maſt he ſhall by 3 Lights at ſtern with firing 3 guns at ſome diſtance from each ſhot and ſo drive toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <label>XI. At night by Maineſaile.</label>
+            </p>
+            <p>If the Cap: thinks fit to ſaile with the maineſaile the Maſters then ſhall conſtantly cary one Light to keepe together the better. The appointed one Light-Ship 2 Lights, and the Capt: 3 Lights up<g ref="char:EOLhyphen"/>on forfeit of 25 Gilders to the poore.</p>
+            <p>
+               <label>XII. In diſtreſse.</label>
+            </p>
+            <p>If any of the Ships become to be leckee, loſing maſts, ſailes or yards, or any other inconvenience (which God defend) he ſhall if by day ſet up a Bonet or Canvis on the round top, and if by night ſet up as many Lights as he can, upon which the
+<pb facs="tcp:174424:4" rendition="simple:additions"/> Capt: and if poſſible all the reſt of the Ships ſhall ſteere to him to aſſiſt him to the utmoſt of their power upon the forfeiture of 6 Gilders.</p>
+            <p>
+               <label>XIII. Stragled by day.</label>
+            </p>
+            <p>If the Ships ſtraggle from one another, and by day fal out of ſight from each other, he that is to wether ſhall hale up his foreſaile, and miſſen to diſcover his Ship, which the leeward Ship ſeing, ſhall hale or clue up his Saile and Miſſen, and the doggers and hoys their Foreſails, and miſſen by which they ſhall know one another, and come together.</p>
+            <p>
+               <label>XIV. Stragled by night.</label>
+            </p>
+            <p>If the ſame happens by night, then 2 lights ſhall be ſet up at Stern and upon Deck to make falſe fire the one Ship haling the other ſhall anſweare from whence the Ship, to which the other ſhall an<g ref="char:EOLhyphen"/>ſweare</p>
+            <p>
+               <label>XV. Perceiving Land by Night.</label>
+            </p>
+            <p>He that eſpies any Land o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhalow Water by night, he ſhall ſet up 2 lights at ſtern with a Light in the maine Top, and ſaile to the Convoyer, who then ſhall give the needeful ſigne to tack ab<g ref="char:EOLhyphen"/>out, and if it happeas by day, he ſhall ſet up a Princes Flag (a Dutch Ancient) at ſtern, and ſaile by the Convoyer.</p>
+            <p>
+               <label>XVI. The Captaine deſiring Ma<g ref="char:EOLhyphen"/>ſters aboard.</label>
+            </p>
+            <p>If the Capt: hath a mind to have the Maſters a board to propoſe any thing neceſſary for the vo<g ref="char:EOLhyphen"/>yage, he ſhall ſet up a white Flag at ſtern, and fire one gun, upon the forfeit of ſix Gilders.</p>
+            <pb facs="tcp:174424:4" rendition="simple:additions"/>
+            <p>
+               <label>XVII The Captain deſirings to ſpeake with the Maſters.</label>
+            </p>
+            <p>If the Captaine has a mind to ſpeake with the Maſters, he ſhall ſet up a pendant behind upon the Mizzen peake, and if the Maſters have a mind to ſpeake with the Captaine, they ſhall hoiſe up their ancient to the ancient ſtaffe double.</p>
+            <p>
+               <label>XVIII. To drive by night in fine weather.</label>
+            </p>
+            <p>If the Captaine thinks fit with fine weather by night to drive by, he then shall put up 2 lights be<g ref="char:EOLhyphen"/>hind on the poop, and hoiſe up a light to the Flag<g ref="char:EOLhyphen"/>ſtaff, and fire 2 guns short upon one another.</p>
+            <p>
+               <label>XIX. After driv<g ref="char:EOLhyphen"/>ing to ſaile again:</label>
+            </p>
+            <p>If the Captaine after driving intends to ſaile a<g ref="char:EOLhyphen"/>gain, he ſhall then ſet up 2 Lights on the poop agen, and one Light on the Flag-ſtaf, and fire 2 great Cannons.</p>
+            <p>
+               <label>XX. To tak in miſty weather.</label>
+            </p>
+            <p>In the firſt place the Ships in our Fleete ſhall keepe cloſe together when they perceive the miſt or fog accoming, and being miſty ſhall be very carefull not to make to much ſaile unleſſe we are forced to a lee ſhore, and when we are to tack the Capt: ſhall fire 2 guns ſhort upon the other, and tack about to moſt advantage from the lee ſhoore.</p>
+            <pb facs="tcp:174424:5" rendition="simple:additions"/>
+            <p>
+               <label>XXI. In Mist to anker.</label>
+            </p>
+            <p>If we are neceſſited through miſty Weather to anker, the Capt: ſhall fire 3 guns at ſome diſtance from one another, and conſtantly be beating the drum.</p>
+            <p>
+               <label>XXII. To ſaile in a Miſt.</label>
+            </p>
+            <p>And if it be thought fit to ſet ſaile again with the mainſaile, the ſigne then ſhall be by 3 guns fired quick upon each other, thereby to get from the lee ſhore by the beſt tack aboute, or ſteer ſuch a courſe, where we are deſigned unto, and ſhall be obleiged every evening to ſaile below the moſt Leeward-Ship, upon forfeit of 25 Gilders to the Poore.</p>
+            <p>
+               <label>XXIII.</label>
+            </p>
+            <p>And if the Captaine thinks fit with miſty wea<g ref="char:EOLhyphen"/>ther to drive, and to clue up the ſailes, he ſhall then fire 4 guns in order after each other, and in driving and ſailing often to beate the Drum, or ſound the Trumpet, and ſometimes fire a Muſquet till the Marchants-Ships heare, and anſweare with a Muſquet, or alſo to beate the Drum, and make what noiſe they can to keepe together, to which the Maſters are to rule themſelves thereafter.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>The Errors of the Printer are ſo few as may, be corrected by the ſence.</p>
+            <pb facs="tcp:174424:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
